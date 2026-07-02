@@ -4,7 +4,7 @@ Full-stack engineer, self-taught and obsessed with shipping. I've built 3 mobile
 
 **Stack:** React Native, TypeScript, Python, Postgres, Expo, AWS, GCP
 
-## Things I've built
+## 🚀 Things I've built
 
 ### AgentCypher
 
@@ -36,11 +36,11 @@ Tech: React Native, Node, GCP, Supabase, BullMQ
 
 Repo: https://github.com/KyleMayotte/AUX
 
-## How I work
+## 🛠️ How I work
 
 I learn by shipping and by talking to customers. My engineering philosophy is to simplify by asking "so what?" of every decision. I'm comfortable owning a feature end to end, from data model to UI to deploying for real users.
 
-## Reach me
+## 📫 Reach me
 
 - Email: mayottekyle@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kyle-mayotte
