@@ -4,7 +4,7 @@ Full-stack engineer, self-taught and obsessed with shipping. I've built 3 mobile
 
 **Stack:** React Native, TypeScript, Python, Postgres, Expo, AWS, GCP
 
-## 🚀 Things I've built
+## Things I've built
 
 ### AgentCypher
 
@@ -28,19 +28,19 @@ Live: https://apps.apple.com/us/app/hai-human-aligned-ai/id6779789397
 
 ### AUX, Autonomous Execution Layer
 
-An experiment in how far AI autonomous action can go. 70+ tools, 15+ integrations, and an agentic orchestration layer. A 10-minute BullMQ tick fired a DAG of tools to act while you slept: meeting briefs, resolving schedule conflicts, competitor analysis benchmarked against your GitHub.
+An experiment in how far AI autonomous action can go. 70+ tools, 15+ integrations, and a registry-driven agentic orchestration layer. Scheduled jobs acted while you slept: meeting briefs, resolving schedule conflicts, competitor analysis benchmarked against your GitHub. The scheduler started on a BullMQ tick and I moved it to Google Cloud Tasks so each task fires at its exact time and survives restarts.
 
-**Wound down, and its ideas evolved into HAI.**
+**Wound down, and its ideas evolved into HAI. Public code sample below.**
 
-Tech: React Native, Node, GCP, Supabase, BullMQ
+Tech: React Native, Node, GCP, Cloud Tasks, Supabase
 
-Repo: https://github.com/KyleMayotte/AUX
+Code: https://github.com/KyleMayotte/aux-agent-layer
 
-## 🛠️ How I work
+## How I work
 
 I learn by shipping and by talking to customers. My engineering philosophy is to simplify by asking "so what?" of every decision. I'm comfortable owning a feature end to end, from data model to UI to deploying for real users.
 
-## 📫 Reach me
+## Reach me
 
 - Email: mayottekyle@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kyle-mayotte
