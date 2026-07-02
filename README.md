@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Kyle 👋
 
-<!--
-**KyleMayotte/KyleMayotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer, self-taught and obsessed with shipping. I've built
+3 mobile apps and an agentic cybersecurity platform that are in real use.
+Moving toward San Francisco to build alongside the best.
 
-Here are some ideas to get you started:
+**Stack:** React Native · TypeScript · Python · Postgres · Expo · AWS · GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Things I've built
+
+### AgentCypher — Agentic threat intelligence for CISOs
+An agentic CTI platform that synthesizes 40,000+ cyber news articles and 30+
+threat feeds to surface what matters to your organization — and why. Built so
+security leaders can understand threat intel and make faster decisions.
+**Landed 3 design partners: Magnetar, AutoZone, and Dykema.**
+`Python · MCP · PydanticAI · Postgres · AWS`
+🔗 **[Live → agentcypher.ai](https://agentcypher.ai)**
+
+### HAI — Human-Aligned AI
+My co-founder and I interviewed 60+ people; over half named the same two AI
+failures: *it doesn't remember me, and it waits when it should act.* So we built
+an assistant aligned to your goals, not a company's — it remembers you, pushes
+back, and follows up without being asked.
+**Live on the App Store, in active feedback with our 60+ interviewees.**
+`Expo · Supabase Edge Functions · Postgres + pgvector · pg_cron`
+🔗 **[Live → App Store](https://apps.apple.com/us/app/hai-human-aligned-ai/id6779789397)**
+
+### AUX — Autonomous Execution Layer
+An experiment in how far AI autonomous action can go: 70+ tools, 15+
+integrations, and an agentic orchestration layer. A 10-minute BullMQ tick fired
+a DAG of tools to act while you slept — meeting briefs, resolving schedule
+conflicts, competitor analysis benchmarked against your GitHub.
+**Wound down; its ideas evolved into HAI.**
+`React Native · Node · GCP · Supabase · BullMQ`
+🔗 **[Repo → AUX](https://github.com/KyleMayotte/AUX)**
+
+---
+
+## 🛠️ How I work
+I learn by shipping and by talking to customers. My engineering philosophy is to
+simplify by asking *"so what?"* of every decision. I'm comfortable owning a
+feature end to end — from data model to UI to deploying for real users.
+
+---
+
+## 📫 Reach me
+- **Email:** mayottekyle@gmail.com
+- **LinkedIn:** [kyle-mayotte](https://www.linkedin.com/in/kyle-mayotte)
