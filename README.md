@@ -18,7 +18,7 @@ security leaders can understand threat intel and make faster decisions.
 `Python · MCP · PydanticAI · Postgres · AWS`
 🔗 **[Live → agentcypher.ai](https://agentcypher.ai)**
 
-### HAI — Human-Aligned AI
+### HAI - Human-Aligned AI
 My co-founder and I interviewed 60+ people; over half named the same two AI
 failures: *it doesn't remember me, and it waits when it should act.* So we built
 an assistant aligned to your goals, not a company's — it remembers you, pushes
@@ -27,7 +27,7 @@ back, and follows up without being asked.
 `Expo · Supabase Edge Functions · Postgres + pgvector · pg_cron`
 🔗 **[Live → App Store](https://apps.apple.com/us/app/hai-human-aligned-ai/id6779789397)**
 
-### AUX — Autonomous Execution Layer
+### AUX - Autonomous Execution Layer
 An experiment in how far AI autonomous action can go: 70+ tools, 15+
 integrations, and an agentic orchestration layer. A 10-minute BullMQ tick fired
 a DAG of tools to act while you slept — meeting briefs, resolving schedule
