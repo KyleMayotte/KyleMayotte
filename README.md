@@ -34,7 +34,7 @@ Code sample: https://github.com/KyleMayotte/hai-memory-pipeline — the exactly-
 
 An experiment in how far AI autonomous action can go. 70+ tools, 15+ integrations, and a registry-driven agentic orchestration layer. Scheduled jobs acted while you slept: meeting briefs, resolving schedule conflicts, competitor analysis benchmarked against your GitHub. The scheduler started on a BullMQ tick and I moved it to Google Cloud Tasks so each task fires at its exact time and survives restarts.
 
-**Wound down, and its ideas evolved into HAI. Public code sample below.**
+**Pivoted and evolved into HAI. Public code sample below.**
 
 Tech: React Native, Node, GCP, Cloud Tasks, Supabase
 
