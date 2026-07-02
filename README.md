@@ -16,6 +16,8 @@ Tech: Python, MCP, PydanticAI, Postgres, AWS
 
 Live: https://agentcypher.ai
 
+Case study: https://github.com/KyleMayotte/agentcypher — architecture + product (source withheld, patent pending)
+
 ### HAI, Human-Aligned AI
 
 My co-founder and I interviewed 60+ people. Over half named the same two AI failures: it doesn't remember you, and it waits when it should act. So we built an assistant aligned to your goals, not a company's. It remembers you, pushes back, and follows up without being asked.
